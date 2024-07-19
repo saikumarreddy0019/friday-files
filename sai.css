@@ -2,8 +2,8 @@
     font-weight: 300;
     font: bold;
     font-stretch: expanded;
-    flex-wrap: wrap;
-    -ms-flex: none;
-    background: none;
-    background-repeat: initial;
+   font-display: export;
+   font: 300;
+   font-stretch: expanded;
+   forced-color-adjust: blue;
 }
